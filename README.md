@@ -32,10 +32,7 @@
    ---
 
    ### GitHub Stats
-   ![Aman's GitHub
-   stats](https://github-readme-stats
-   .vercal.app/api/?username=Amanyadav1913&
-   show_icons=true&theme=radical)
+   ![Aman's GitHub stats](https://github-readme-stats.vercal.app/api/?username=Amanyadav1913&show_icons=true&theme=radical)
  
        
  
