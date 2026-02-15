@@ -1,20 +1,41 @@
-<h1 align="center">Hi🙋‍♂️, I'm Aman Yadav </h1>
-<h3 align="center">Learning web Development 🚀</h3>
+ <h1 align="center">Hi 🙋‍♂️, I'm Aman Yadav</h1>
+ <h3 align="center">A passionate developer from India </h3>
 
-<!--
-**Amanyadav1913/Amanyadav1913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <table>
+   <tr>
+     <td width="60">
+       ###📖 About Me
+       -🎓 B.Tech CSE Student
+       -🍀Learning **web Development**
+       -💻Language:**c, HTML, CSS, Javascript**
+       -🚀Reach me:
+       **amanku12090@gmail.com**  
+       -❤️‍🔥Fun fact: I love building cool stuff😜
+       ### Tech Stack
+       <p>
+         <img
+           src="https://img.shields.io/badge/c-blue?style=for-the-badge"/>
+          <img
+           src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge"/>
+          <img
+           src="https://img.shields.io/badge/CSS-blue?style=for-the-badge"/>
+          <img
+           src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge"/>
+       </p>
+     </td>
+     <td width ="40%">
+       <img
+         src="https://raw.gi thubuser content.com/devSouvik/devSovik/master/gif3.gif3"width="100%"/>
+     </td>
+   </tr>
+   <table/>
+   ---
 
-Here are some ideas to get you started:
-
--  🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
--🍀currently learning HTML, CSS, JavaScript
--💻 Buliding projects on GitHub
--🧨fun fact: I am funny😜
+   ### GitHub Stats
+   ![Aman's GitHub
+   stats](https://github-readme-stats
+   .vercal.app/api/?username=Amanyadav1913&
+   show_icons=true&theme=radical)
+ 
+       
+ 
