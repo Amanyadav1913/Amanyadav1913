@@ -5,7 +5,7 @@
 
 <table>
 <tr>
-<td width="80%">
+<td width="180%">
 
 ## 👨‍💻 About Me
 
@@ -29,9 +29,17 @@
 - 📧 Email:amanku12090@gmail.com
 
 
+## 💻 Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
 </td>
 
-<td width="60%">
+<td width="120%">
 <img src="https://pngtree.com/free-backgrounds-photos/coding" width="300px"/>
 </td>
 
