@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
+ <h1 align="center">Hi 👋, I'm Aman yadav</h1>
 
 <h3 align="center">
 🚀 Aspiring Software Developer | JavaScript Enthusiast | Future Software Engineer
