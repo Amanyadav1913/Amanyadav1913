@@ -27,7 +27,7 @@
 <td width="40%">
 
  <img 
- src="https://www.freepik.com/search?format=search&img=1&last_filter=img&last_value=1&query=Programmer+wallpaper&type=photo&item_id=323437055"width="300"/>
+ src="https://raw.githubuser content.com/Amanyadav1913/main/profile.jpg"width="220" style="border-radius:50%;" />
 
 </td>
 </tr>
