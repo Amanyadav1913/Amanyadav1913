@@ -27,7 +27,7 @@
 <td width="40%">
 
  <img 
- src="https://raw.githubuser content.com/Amanyadav1913/main/profile.jpg"width="220" style="border-radius:50%;" />
+ src="htpps://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="240 />
 
 </td>
 </tr>
