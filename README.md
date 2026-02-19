@@ -1,61 +1,77 @@
- <h1 align="center">Hi 👋, I'm Aman yadav</h1>
-<h2 align="center">Aspiring Software Engineer | Future Google Engineer 🚀</h2>
+ <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
+
+<h3 align="center">
+🚀 Aspiring Software Developer | JavaScript Enthusiast | Future Software Engineer
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Passionate+Coder;DSA+Learner;Web+Developer;Future+Google+Engineer" />
+</p>
 
 ---
-
-<table>
-<tr>
-<td width="180%">
 
 ## 👨‍💻 About Me
 
 - 🎓 CSE Aspirant from Bihar  
-- 💻 Learning JavaScript & Web Development  
-- 🎯 Goal: Product-based company placement  
-- 🧠 Practicing DSA daily  
-- 🔥 Passionate about Coding  
+- 💻 Currently Learning: JavaScript & Web Development  
+- 🧠 Practicing DSA Daily  
+- 🎯 Goal: Crack Product-Based Company  
+- 🔥 Love solving real-world problems with code  
 
-## 🚀 Skills
+⚡ *Fun Fact: I treat coding like a game — every bug is a level to clear.*
 
-- HTML  
-- CSS  
-- JavaScript  
-- Git & GitHub  
-- Data Structures (Learning)
+---
 
-## 🌎 Connect With Me
+## 🚀 Tech Stack
 
-- 💼 LinkedIn: www.linkedin.com/in/aman-kumar-014615380
-- 📧 Email:amanku12090@gmail.com
-
-
-## 💻 Tech Stack
-
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-</td>
+---
 
-<td width="120%">
-<img src="https://pngtree.com/free-backgrounds-photos/coding" width="300px"/>
-</td>
+## 🎯 Hobbies & Interests
 
-</tr>
-</table>
+- 💻 Building Web Projects  
+- 🎮 Gaming with Friends  
+- 📚 Learning New Tech  
+- 🧠 Solving Coding Problems  
+- 🎧 Coding with Music  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<br>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
 
 ---
 
-⭐ *“Consistency beats talent when talent doesn’t work hard.”*
+## 🐍 Contribution Snake Animation
 
- 
+<p align="center">
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌎 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+⭐ *Consistency Beats Motivation.*
+
