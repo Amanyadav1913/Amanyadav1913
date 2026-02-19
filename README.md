@@ -26,7 +26,7 @@
 
 <td width="40%">
 
- <img src=" https://www.freepik.com/premium-photo/hooded-hacker-arriving-hidden-underground-shelter_410108997.htm#from_element=cross_selling__photo" width="300"/>
+ <img src=""C:\Users\Aman Kumar\Pictures\software-engineer-developer-coding-software_232066023.htm"" width="300"/>
 
 </td>
 </tr>
