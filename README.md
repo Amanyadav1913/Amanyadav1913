@@ -26,7 +26,7 @@
 
 <td width="40%">
 
- <img src=""C:\Users\Aman Kumar\Pictures\software-engineer-developer-coding-software_232066023.htm"" width="300"/>
+ <img src="C:\Users\Aman Kumar\Pictures\software-engineer-developer-coding-software_232066023.htm" width="300"/>
 
 </td>
 </tr>
