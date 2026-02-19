@@ -23,15 +23,16 @@
 - Git & GitHub  
 - Data Structures (Learning)
 
-</td>
 ## 🌎 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
-- 📧 Email: your-email@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/aman-kumar-014615380
+- 📧 Email:amanku12090@gmail.com
 
+
+</td>
 
 <td width="40%">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300px"/>
+<img src="https://pngtree.com/free-backgrounds-photos/coding" width="300px"/>
 </td>
 
 </tr>
