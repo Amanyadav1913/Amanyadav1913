@@ -26,7 +26,8 @@
 
 <td width="40%">
 
- <img src="C:\Users\Aman Kumar\Pictures\software-engineer-developer-coding-software_232066023.htm" width="300"/>
+ <img 
+ src="https://www.freepik.com/search?format=search&img=1&last_filter=img&last_value=1&query=Programmer+wallpaper&type=photo&item_id=323437055"width="300"/>
 
 </td>
 </tr>
