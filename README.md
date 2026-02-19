@@ -1,11 +1,11 @@
  <h1 align="center">Hi 👋, I'm Aman yadav</h1>
-<h3 align="center">Aspiring Software Engineer | Future Google Engineer 🚀</h3>
+<h2 align="center">Aspiring Software Engineer | Future Google Engineer 🚀</h2>
 
 ---
 
 <table>
 <tr>
-<td width="60%">
+<td width="80%">
 
 ## 👨‍💻 About Me
 
@@ -31,7 +31,7 @@
 
 </td>
 
-<td width="40%">
+<td width="60%">
 <img src="https://pngtree.com/free-backgrounds-photos/coding" width="300px"/>
 </td>
 
