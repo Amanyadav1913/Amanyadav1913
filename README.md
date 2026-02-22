@@ -50,7 +50,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Amanyadav1913&show_icons=true&theme=tokyonight"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyadav1913&layout=compact&theme=tokyonight"/>
+<img src="
 <br>
 <img src="https://streak-stats.demolab.com?user=Amanyadav1913&theme=tokyonight"/>
 </p>
@@ -69,6 +69,7 @@
 
 <p align="center">
 <a href="www.linkedin.com/in/aman-kumar-014615380">
+ https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyadav1913&layout=compact&theme=tokyonight"/>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
