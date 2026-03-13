@@ -73,7 +73,7 @@
  </a>
 
  <a href=" www.linkedin.com/in/aman-kumar-014615380"/>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=teligram&logoColor=sky"/>
+<img src="https://img.shields.io/badge/Teligram-0077B5?style=for-the-badge&logo=Teligram&logoColor=blue"/>
  </a>
 </p>
 
