@@ -68,7 +68,7 @@
 ## 🌎 Connect With Me
 
 <p align="center">
-<a href="www.linkedin.com/in/aman-kumar-014615380"/>
+https://www.linkedin.com/in/aman-kumar-014615380
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
 
