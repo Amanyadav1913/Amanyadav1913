@@ -76,3 +76,80 @@
 
 ⭐ *Consistency Beats Motivation.*
 
+<h1 align="center">Hi 👋, I'm Aman Yadav</h1>
+
+<h3 align="center">
+💻 Passionate Developer | 🚀 Future Software Engineer
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;JavaScript+Learner;Future+Software+Engineer;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🌱 I’m currently learning **JavaScript & Web Development**
+- 🎯 Goal: **Work in a Product-Based Company**
+- 💻 Love building **Web Projects**
+- 🎮 Hobby: **Gaming & Coding**
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Amanadav1913&show_icons=true&theme=tokyonight">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanadav1913&layout=compact&theme=tokyonight">
+
+</p>
+
+---
+
+## 📈 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Amanadav1913&theme=tokyonight">
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Amanadav1913/Amanadav1913/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Amanadav1913">
+<img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge">
+</a>
+
+</p>
+
+---
+
+## 👨‍💻 Coding Mode
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
+
+---
+
+⭐ **If you like my projects, don't forget to star them!**
+
