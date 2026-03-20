@@ -106,14 +106,15 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Amanadav1913&show_icons=true&theme=tokyonight">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanadav1913&layout=compact&theme=tokyonight">
-
+<img src="https://github-readme-stats.vercel.app/api?username=Amanyadav1913&show_icons=true&theme=tokyonight"/>
+<br>
+<img src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amanyadav1913&show_icons=true&theme=tokyonight)"/>
+<br>
+<img src="https://streak-stats.demolab.com?user=Amanyadav1913&theme=tokyonight"/>
 </p>
+
+ 
 
 ---
 
