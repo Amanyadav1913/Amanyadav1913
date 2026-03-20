@@ -50,6 +50,8 @@
 <img src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amanyadav1913&show_icons=true&theme=tokyonight)"/>
 <br>
 <img src="https://streak-stats.demolab.com?user=Amanyadav1913&theme=tokyonight"/>
+
+ <br>
  ## 🔥 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyadav1913&layout=compact&theme=tokyonight)
