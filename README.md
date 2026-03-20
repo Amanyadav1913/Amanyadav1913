@@ -21,7 +21,6 @@
 ⚡ *Fun Fact: I treat coding like a game — every bug is a level to clear.*
 
 ---
-
 ## 🚀 Tech Stack
 
 <p align="center">
@@ -37,7 +36,7 @@
 - 📚 Learning New Tech  
 - 🧠 Solving Coding Problems  
 - 🎧 Coding with Music
--   travling ![TrainWindowGIF](https://github.com/user-attachments/assets/a4a9e942-e7f5-4df2-8a7b-91b0ab814ba1)
+ 
 
    
 
@@ -75,7 +74,17 @@
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
+## 📊 GitHub Stats
 
+![Aman GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanyadav1913&show_icons=true&theme=tokyonight)
+
+## 🔥 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyadav1913&layout=compact&theme=tokyonight)
+
+## 📈 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Amanyadav1913&theme=tokyonight)
 
 ⭐ *Consistency Beats Motivation.*
 </p>
