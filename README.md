@@ -25,11 +25,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
- <img src="https://img.shields.io/badge/C-0446b0?style=for-the-badge&logo=c3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,git,github,vscode" />
 </p>
 
 ---
@@ -73,65 +69,24 @@
 </p>
 
 ---
+## 👨‍💻 Coding Mode
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
+
 
 ⭐ *Consistency Beats Motivation.*
 
-<h1 align="center">Hi 👋, I'm Aman Yadav</h1>
 
-<h3 align="center">
-💻 Passionate Developer | 🚀 Future Software Engineer
-</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;JavaScript+Learner;Future+Software+Engineer;Always+Learning+New+Things&center=true&width=500&height=45">
-</p>
 
----
 
-## 👨‍💻 About Me
-
-- 🌱 I’m currently learning **JavaScript & Web Development**
-- 🎯 Goal: **Work in a Product-Based Company**
-- 💻 Love building **Web Projects**
-- 🎮 Hobby: **Gaming & Coding**
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Amanyadav1913&show_icons=true&theme=tokyonight"/>
-<br>
-<img src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amanyadav1913&show_icons=true&theme=tokyonight)"/>
-<br>
-<img src="https://streak-stats.demolab.com?user=Amanyadav1913&theme=tokyonight"/>
-</p>
 
  
+ 
 
----
-
-## 📈 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Amanadav1913&theme=tokyonight">
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Amanadav1913/Amanadav1913/blob/output/github-contribution-grid-snake.svg)
-
----
-
+ 
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -144,11 +99,6 @@
 
 ---
 
-## 👨‍💻 Coding Mode
-
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
-</p>
 
 ---
 
