@@ -59,7 +59,7 @@
  ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Amanyadav1913/Amanyadav1913/blob/output/github-contribution-grid-snake.svg)
-</p>
+
 
 ---
 
