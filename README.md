@@ -37,6 +37,8 @@
 - 📚 Learning New Tech  
 - 🧠 Solving Coding Problems  
 - 🎧 Coding with Music
+-   travling ![TrainWindowGIF](https://github.com/user-attachments/assets/a4a9e942-e7f5-4df2-8a7b-91b0ab814ba1)
+
    
 
 ---
@@ -50,22 +52,21 @@
 <br>
 <img src="https://streak-stats.demolab.com?user=Amanyadav1913&theme=tokyonight"/>
 </p>
-
----
- ## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Amanyadav1913/Amanyadav1913/blob/output/github-contribution-grid-snake.svg)
-
-
 ---
 
 ## 🌎 Connect With Me
- https://www.linkedin.com/in/aman-kumar-014615380
  
 
  <a href="www.linkedin.com/in/aman-kumar-014615380"/>
 <img src="https://img.shields.io/badge/Teligram-0087B5?style=for-the-badge&logo=Teligram&logoColor=red"/>
  </a>
+
+ <p align="center">
+
+<a href="https://github.com/Amanadav1913">
+<img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge">
+</a>
+
 </p>
 
 ---
@@ -77,30 +78,7 @@
 
 
 ⭐ *Consistency Beats Motivation.*
-
-
-
-
-
-
- 
- 
-
- 
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Amanadav1913">
-<img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge">
-</a>
-
 </p>
-
----
-
-
----
 
 ⭐ **If you like my projects, don't forget to star them!**
 
