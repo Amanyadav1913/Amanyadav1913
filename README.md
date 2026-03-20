@@ -36,9 +36,6 @@
 - 📚 Learning New Tech  
 - 🧠 Solving Coding Problems  
 - 🎧 Coding with Music
- 
-
-   
 
 ---
 
@@ -58,14 +55,6 @@
 
 
 ## 🌎 Connect With Me
- 
-
-[ https://linkedin.com/in/aman-yadav
-https://t.me/aman1913
-https://instagram.com/aman1913](https://linkedin.com/in/aman-yadav
-https://t.me/aman1913
-https://instagram.com/aman1913)
-
  <p align="center">
 
 <a href="https://github.com/Amanadav1913">
