@@ -56,11 +56,9 @@
 </p>
 
 ---
+ ## 🐍 Contribution Snake
 
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-<img src="https://raw.githubuser.com/Amanyadav1913/Amanyadav1913/blob/output/github-contribution-grid-snake.svg"/>
+![snake gif](https://github.com/Amanyadav1913/Amanyadav1913/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 ---
