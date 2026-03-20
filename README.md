@@ -50,6 +50,10 @@
 <img src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amanyadav1913&show_icons=true&theme=tokyonight)"/>
 <br>
 <img src="https://streak-stats.demolab.com?user=Amanyadav1913&theme=tokyonight"/>
+ ## 🔥 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyadav1913&layout=compact&theme=tokyonight)
+
 </p>
 ---
 
@@ -74,18 +78,9 @@
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
-## 📊 GitHub Stats
+ 
 
-![Aman GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanyadav1913&show_icons=true&theme=tokyonight)
-
-## 🔥 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyadav1913&layout=compact&theme=tokyonight)
-
-## 📈 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Amanyadav1913&theme=tokyonight)
-
+ 
 ⭐ *Consistency Beats Motivation.*
 </p>
 
