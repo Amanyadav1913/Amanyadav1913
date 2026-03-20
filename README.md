@@ -60,9 +60,9 @@
 ## 🌎 Connect With Me
  
 
- <a href="www.linkedin.com/in/aman-kumar-014615380"/>
-<img src="https://img.shields.io/badge/Teligram-0087B5?style=for-the-badge&logo=Teligram&logoColor=red"/>
- </a>
+ https://linkedin.com/in/aman-yadav
+https://t.me/aman1913
+https://instagram.com/aman1913
 
  <p align="center">
 
