@@ -50,9 +50,8 @@
 
 ---
 <h2 align="center">💻 Top Languages</h2>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyadav1913&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amanyadav1913&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ## 🌎 Connect With Me
