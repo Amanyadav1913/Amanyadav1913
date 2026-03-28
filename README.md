@@ -49,10 +49,11 @@
 <img src="https://streak-stats.demolab.com?user=Amanyadav1913&theme=tokyonight"/>
 
 ---
- ## 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyadav1913&layout=compact&theme=tokyonight)
-</p>
+<h2 align="center">💻 Top Languages</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyadav1913&layout=compact&theme=tokyonight" />
+</p>
 
 ## 🌎 Connect With Me
   <p align="center">
