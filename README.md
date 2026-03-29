@@ -53,6 +53,9 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amanyadav1913&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanyadav1913&theme=tokyo-night" />
+</p>
 
 ## 🌎 Connect With Me
   <p align="center">
@@ -81,6 +84,11 @@
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
  
 
  
@@ -89,23 +97,8 @@
 
 ⭐ **If you like my projects, don't forget to star them!**
  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanyadav1913&theme=tokyo-night" />
-</p>
 
-<h2 align="center">🔥 My GitHub Activity</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amanyadav1913&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanyadav1913&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanyadav1913&theme=tokyo-night" />
-</p>
-
+ 
 
  
