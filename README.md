@@ -88,18 +88,9 @@
 </p>
 
 ⭐ **If you like my projects, don't forget to star them!**
-<h2 align="center">🔥 My GitHub Activity</h2>
-
+ 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanyadav1913&theme=tokyo-night" />
 </p>
 
 
