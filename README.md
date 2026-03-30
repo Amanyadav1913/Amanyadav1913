@@ -40,14 +40,18 @@
 ---
 
 ## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Amanyadav1913&show_icons=true&theme=tokyonight"/>
-<br>
-<img src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amanyadav1913&show_icons=true&theme=tokyonight)"/>
-<br>
-<img src="https://streak-stats.demolab.com?user=Amanyadav1913&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
+ 
 ---
 <h2 align="center">💻 Top Languages</h2>
 <p align="center">
