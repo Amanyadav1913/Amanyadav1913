@@ -89,10 +89,8 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Amanyadav1913/Amanyadav1913/output/github-contribution-grid-snake.svg" />
 </p>
- 
-
  
 ⭐ *Consistency Beats Motivation.*
 </p>
