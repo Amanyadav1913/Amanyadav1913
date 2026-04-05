@@ -97,7 +97,7 @@
 ⭐ *Consistency Beats Motivation.*
 </p>
 
-⭐ **If you like my projects, don't forget to star them!**
+ 
  
 
 
