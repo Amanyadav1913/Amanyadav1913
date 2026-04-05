@@ -37,7 +37,7 @@
 - 🧠 Solving Coding Problems  
 - 🎧 Coding with Music
 
----
+
 
 ## 📊 GitHub Analytics
 <p align="center">
@@ -75,7 +75,7 @@
 </a>
 
 </p>
----
+
 ## 👨‍💻 Coding Mode
 
 <p align="center">
