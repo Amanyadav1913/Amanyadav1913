@@ -41,10 +41,6 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amanyadav1913&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanyadav1913&theme=tokyonight" />
 </p>
 
@@ -79,17 +75,11 @@
 </a>
 
 </p>
-
 ---
 ## 👨‍💻 Coding Mode
 
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
-</p>
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amanyadav1913/Amanyadav1913/output/github-contribution-grid-snake.svg" />
 </p>
  
 ⭐ *Consistency Beats Motivation.*
