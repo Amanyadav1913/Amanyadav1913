@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   
-  <a href="https://x.com/YOUR-USERNAME">
+  <a href="https://x.com/@Amanyadav9669">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
