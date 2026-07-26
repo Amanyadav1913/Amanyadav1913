@@ -23,20 +23,12 @@
 ---
 ## 🚀 Tech Stack
 
-### Languages
-<p>
- <img src="https://skillicons.dev/icons?i=c,cpp,js"/>
-</p>
-
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
-</p>
-
-### Tools
-<p>
- <img src="https://skillicons.dev/icons?i=git,github,vscode"
-</p>
+ <p align="center">
+ <a herf="#">
+ <img src="https://skillsicons.dev/icons?i=html" width="55"/>
+ <a/>
+  
+ </p>
 
 ---
 
