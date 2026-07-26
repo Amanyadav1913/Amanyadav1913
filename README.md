@@ -82,6 +82,11 @@
   </a>
 </p>
 
+## GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Amanyadav1913&show_icons=true&theme=tokyonight"/>
+
 ## 👨‍💻 Coding Mode
 
 <p align="center">
