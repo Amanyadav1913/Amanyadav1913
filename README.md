@@ -27,7 +27,30 @@
  <a herf="#">
  <img src="https://skillsicons.dev/icons?i=html" width="55"/>
  <a/>
-  
+ <a herf="#">
+ <img src="https://skillsicons.dev/icons?i=css" width="55"/>
+ <a/>
+ <a herf="#">
+ <img src="https://skillsicons.dev/icons?i=js" width="55"/>
+ <a/>
+ <a herf="#">
+ <img src="https://skillsicons.dev/icons?i=react" width="55"/>
+ <a/>
+ <a herf="#">
+ <img src="https://skillsicons.dev/icons?i=bootstrap" width="55"/>
+ <a/>
+ <a herf="#">
+ <img src="https://skillsicons.dev/icons?i=tailwind" width="55"/>
+ <a/>
+ <a herf="#">
+ <img src="https://skillsicons.dev/icons?i=git" width="55"/>
+ <a/>
+ <a herf="#">
+ <img src="https://skillsicons.dev/icons?i=github" width="55"/>
+ <a/>
+ <a herf="#">
+ <img src="https://skillsicons.dev/icons?i=vs code" width="55"/>
+ <a/> 
  </p>
 
 ---
