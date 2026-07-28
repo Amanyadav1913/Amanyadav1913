@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;Frontend+Developer;React+Developer;JavaScript+Developer;DSA+Learner;Open+Source+Learner;Future+Software+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;Frontend+Developer;DSA+Learner;Open+Source+Learner;Future+Software+Engineer"/>
 </p>
 
 ## 👨‍💻 About Me
@@ -11,15 +11,10 @@
 🎓 B.Tech CSE Student
 
 💻 Passionate Frontend Developer
-
 📚 Daily DSA Practice
-
 🌱 Learning React + Backend
-
 🚀 Building Real World Projects
-
 🎯 Dream → Software Engineer
-
 ⚡ Fun Fact:
 I enjoy solving bugs more than creating them 😄
 
@@ -70,7 +65,19 @@ I enjoy solving bugs more than creating them 😄
  # 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
 </p>
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanyadav1913&theme=tokyo-night"/>
+</p>
+
+
+# 📈 Top Languages
+
+<p align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyadav1913&layout=compact&theme=tokyonight"/>
+</p>
+---
