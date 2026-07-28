@@ -1,7 +1,4 @@
- <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Aman%20Yadav&fontSize=60&fontColor=ffffff&animation=twinkling&color=gradient"/>
-</p>
-
+ 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;Frontend+Developer;DSA+Learner;Open+Source+Learner;Future+Software+Engineer"/>
 </p>
@@ -74,16 +71,6 @@
 
 ---
 
-# 🚀 Currently Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-<img src="https://skillicons.dev/icons?i=express"/>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-</p>
-
 ---
 
 # 📊 GitHub Statistics
@@ -148,22 +135,6 @@
 
 ---
 
-# 🎯 2026 Goals
-
-✅ Master JavaScript
-
-✅ Learn React
-
-✅ Build 10+ Projects
-
-✅ Improve DSA
-
-✅ Learn Backend
-
-✅ Open Source Contribution
-
----
-
 # 📂 Featured Projects
 
 ⭐ Portfolio Website
@@ -171,10 +142,6 @@
 ⭐ Weather App
 
 ⭐ Todo App
-
-⭐ Password Generator
-
-⭐ FoodBridge
 
 ---
 
