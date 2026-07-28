@@ -1,8 +1,3 @@
- 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;Frontend+Developer;DSA+Learner;Open+Source+Learner;Future+Software+Engineer"/>
-</p>
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Aman%20Yadav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20DSA%20Learner%20|%20React%20Developer&descAlignY=60"/>
 </p>
