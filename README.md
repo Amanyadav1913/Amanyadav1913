@@ -67,27 +67,10 @@ I enjoy solving bugs more than creating them 😄
 
 </p>
 
-name: Generate Snake
+ # 🐍 Contribution Snake
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+<p align="center">
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Amanyadav1913
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+</p>
