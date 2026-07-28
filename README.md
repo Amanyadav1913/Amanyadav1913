@@ -130,16 +130,6 @@
 
 ---
 
-# 📂 Featured Projects
-
-⭐ Portfolio Website
-
-⭐ Weather App
-
-⭐ Todo App
-
----
-
 # 📬 Connect With Me
 
 <p align="center">
