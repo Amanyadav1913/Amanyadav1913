@@ -11,10 +11,15 @@
 🎓 B.Tech CSE Student
 
 💻 Passionate Frontend Developer
+
 📚 Daily DSA Practice
+
 🌱 Learning React + Backend
+
 🚀 Building Real World Projects
+
 🎯 Dream → Software Engineer
+
 ⚡ Fun Fact:
 I enjoy solving bugs more than creating them 😄
 
