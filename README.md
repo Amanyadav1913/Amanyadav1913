@@ -162,7 +162,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=Amanyadav1913&style=for-the-badge&color=blue"/>
 
-</p>
+</p> 
+
+---
+#💻 Coding profile
 
 <p align="center">
 
