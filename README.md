@@ -54,18 +54,25 @@
 
 ---
 
-## 🚀 Skill Level
+## 🚀 Skills Progress
 
-![HTML](https://img.shields.io/badge/HTML-95%25-orange?style=for-the-badge)
+<p align="center">
 
-![CSS](https://img.shields.io/badge/CSS-90%25-blue?style=for-the-badge)
+<img src="https://img.shields.io/badge/C-90%25-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge)
+<img src="https://img.shields.io/badge/C++-85%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-![React](https://img.shields.io/badge/React-70%25-61DAFB?style=for-the-badge)
+<img src="https://img.shields.io/badge/HTML-95%25-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-![Tailwind](https://img.shields.io/badge/Tailwind-80%25-38BDF8?style=for-the-badge)
+<img src="https://img.shields.io/badge/CSS-90%25-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/React-75%25-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tailwind-80%25-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+</p>
 ## 🛠 Tools
 
 <p>
