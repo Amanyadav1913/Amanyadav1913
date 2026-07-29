@@ -53,7 +53,17 @@
 </p>
 
 ---
+## 🛠 Tools
 
+<p>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=figma"/>
+<img src="https://skillicons.dev/icons?i=npm"/>
+</p>
+
+---
 ## 🚀 Skills Progress
 
 <p align="center">
@@ -73,19 +83,6 @@
 <img src="https://img.shields.io/badge/Tailwind-80%25-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
 </p>
-
----
-## 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=vscode"/>
-<img src="https://skillicons.dev/icons?i=figma"/>
-<img src="https://skillicons.dev/icons?i=npm"/>
-</p>
-
----
 
 ---
 
@@ -193,14 +190,6 @@
 
 <a href="https://leetcode.com/u/Amanyadav9955/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="YOUR_CODEFORCES_PROFILE">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="YOUR_GEEKSFORGEEKS_PROFILE">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </p>
