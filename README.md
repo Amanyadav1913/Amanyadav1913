@@ -54,25 +54,11 @@
 
 ---
 
-## 🚀 Skills Progress
-
 <p align="center">
-
-<img src="https://img.shields.io/badge/C-90%25-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C++-85%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML-95%25-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS-90%25-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/React-75%25-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Tailwind-80%25-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyadav1913&layout=donut&theme=tokyonight"/>
 </p>
+
+---
 ## 🛠 Tools
 
 <p>
