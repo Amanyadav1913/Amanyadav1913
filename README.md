@@ -54,6 +54,18 @@
 
 ---
 
+## 🚀 Skill Level
+
+![HTML](https://img.shields.io/badge/HTML-95%25-orange?style=for-the-badge)
+
+![CSS](https://img.shields.io/badge/CSS-90%25-blue?style=for-the-badge)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge)
+
+![React](https://img.shields.io/badge/React-70%25-61DAFB?style=for-the-badge)
+
+![Tailwind](https://img.shields.io/badge/Tailwind-80%25-38BDF8?style=for-the-badge)
+
 ## 🛠 Tools
 
 <p>
