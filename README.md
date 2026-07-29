@@ -54,8 +54,10 @@
 
 ---
 
+<h2 align="center">⚡ Skills Loading...</h2>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyadav1913&layout=donut&theme=tokyonight"/>
+<img width="450" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 </p>
 
 ---
