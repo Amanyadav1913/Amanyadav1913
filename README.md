@@ -99,12 +99,6 @@
 ---
 
 
-## 💻 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanadav1913&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
----
 # 📊 Contribution Graph
 
 <p align="center">
@@ -114,16 +108,16 @@
 </p>
 
 ---
-
-# 🏆 GitHub Trophy
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Amanyadav1913&theme=algolia&column=4"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amanadav1913&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanadav1913&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+
 ---
+ 
 
 # 🐍 Contribution Snake
 
