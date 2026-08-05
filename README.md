@@ -108,15 +108,7 @@
 </p>
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amanadav1913&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanadav1913&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
----
+ 
  
 
 # 🐍 Contribution Snake
@@ -129,15 +121,7 @@
 
 ---
 
-# 📅 Profile Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amanyadav1913&theme=tokyonight"/>
-
-</p>
-
----
+ 
 
 # 📬 Connect With Me
 
