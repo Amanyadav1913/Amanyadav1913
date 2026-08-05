@@ -98,16 +98,13 @@
 
 ---
 
-# 📈 Top Languages
+
+## 💻 Top Languages
 
 <p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyadav1913&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanadav1913&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
 ---
-
 # 📊 Contribution Graph
 
 <p align="center">
