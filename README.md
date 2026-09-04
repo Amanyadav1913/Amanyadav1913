@@ -89,22 +89,12 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amanyadav1913&show_icons=true&theme=tokyonight"/>
-
+ 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanyadav1913&theme=tokyonight"/>
 
 </p>
 
 ---
-
-
-## 📊 GitHub Contribution Graph
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amanadav1913&theme=github-compact&hide_border=true)
----
- 
- 
 
 # 🐍 Contribution Snake
 
