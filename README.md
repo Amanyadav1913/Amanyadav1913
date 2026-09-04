@@ -99,14 +99,9 @@
 ---
 
 
-# 📊 Contribution Graph
+## 📊 GitHub Contribution Graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanyadav1913&theme=tokyo-night"/>
-
-</p>
-
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amanadav1913&theme=github-compact&hide_border=true)
 ---
  
  
